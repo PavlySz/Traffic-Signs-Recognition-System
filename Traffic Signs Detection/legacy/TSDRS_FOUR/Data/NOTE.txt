@@ -1,0 +1,1 @@
+test_four.record and train_four.record are both the same with different names to avoid any errors that may occur during the model training. They both ontain the 1000 images and labels_four from Images folder.
